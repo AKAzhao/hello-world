@@ -1,2 +1,2 @@
 # hello-world
-It's a good start
+It's a good start.
